@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Authorization Required"
+AuthBasicProvider pam
+Require valid-user
